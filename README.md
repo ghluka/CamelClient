@@ -6,11 +6,11 @@
 [![Total Downloads](https://img.shields.io/github/downloads/ghluka/CamelClient/total)](https://github.com/ghluka/CamelClient/releases/latest)
 
 > [!IMPORTANT]  
-> This is the modern version of Camel, for Fabric 1.21.4.
+> This is the modern version of Camel, for Fabric 1.21.5.
 > 
 > Go to [ghluka/CamelClientLegacy](https://github.com/ghluka/CamelClientLegacy) for the Forge 1.8.9 version.
 
-A quality-of-life utility mod for Minecraft Forge 1.8.9.
+A quality-of-life utility mod for Minecraft Fabric 1.21.5.
 Offers features related to Skyblock, PvP, and more!
 
 [![](https://github.com/ghluka/CamelClientLegacy/raw/main/src/main/resources/logo2.png)](#)
