@@ -1,22 +1,28 @@
-# OneConfigExampleMod
+# :camel: Camel Client
 
-![Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_1.svg)
-![Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_2.svg)
-![Minimal Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_3.svg)
-![Minimal Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_4.svg)
+[![Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_3.svg)](https://polyfrost.org/projects/oneconfig/)
 
-Example mod implementing OneConfig.
+[![GitHub License](https://img.shields.io/github/license/ghluka/CamelClient)](https://github.com/ghluka/CamelClient/blob/main/LICENSE.md)
+[![Total Downloads](https://img.shields.io/github/downloads/ghluka/CamelClient/total)](https://github.com/ghluka/CamelClient/releases/latest)
 
-## How to use
+> [!IMPORTANT]  
+> This is the modern version of Camel, for Fabric 1.21.4.
+> 
+> Go to [ghluka/CamelClientLegacy](https://github.com/ghluka/CamelClientLegacy) for the Forge 1.8.9 version.
 
-- Copy the template either by using GitHub's "Use this template" feature or downloading the repo manually.
-- **Remove the license named "LICENSE-TEMPLATE" and choose a new one.**
-- Refactor the template (specifically, the modid, version and name in the gradle.properties and most of the class names)
-  to a different name.
-- Have fun modding! :D
+A quality-of-life utility mod for Minecraft Forge 1.8.9.
+Offers features related to Skyblock, PvP, and more!
 
-## Need to update to a newer commit of this template?
+[![](https://github.com/ghluka/CamelClientLegacy/raw/main/src/main/resources/logo2.png)](#)
 
-Check out these update guides:
-- [Updating to commit `fd8e095`](update-to-fd8e095.md) (most recent update)
-- [Updating to commit `301a6ca`](update-to-301a6ca.md)
+## :gear: Installation
+
+You can get the latest official build from the [latest release](https://github.com/ghluka/CamelClient/releases/latest).
+
+Alternatively, you can get the latest artifact by going to the [build workflows](https://github.com/ghluka/CamelClient/actions/workflows/build.yml), going to the latest build, scrolling to the artifacts and downloading it!
+
+## :scroll: Modules
+
+None added yet!
+
+*module isn't available in release, but available in workflow artifact 
