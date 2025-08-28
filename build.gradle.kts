@@ -42,3 +42,15 @@ toolkitLoomHelper {
         useForgeMixin(modData.id)
     }
 }
+
+tasks {
+    build {
+        doLast {
+            copy {
+                from("${project.rootProject.rootDir}/versions/1.21.5-fabric/build/libs/${modData.name}-${modData.version}+1.21.5-fabric.jar")
+                into("${project.rootProject.rootDir}/artifacts")
+                rename("${modData.name}-${modData.version}\\+1.21.5-fabric", "camel")
+            }
+        }
+    }
+}

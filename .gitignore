@@ -24,6 +24,7 @@ build - Copy.gradle
 .vscode
 .devauth
 .DS_STORE
+.kotlin
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,gradle,forgegradle,kotlin,macos,intellij,intellij+all,eclipse,visualstudiocode
